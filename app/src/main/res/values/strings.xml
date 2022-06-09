@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TheNewMovieDb</string>
+    <string name="popular">Popular trending</string>
+    <string name="movie_title">Avenger Endgame</string>
+</resources>
